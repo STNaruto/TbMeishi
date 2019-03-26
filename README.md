@@ -1,4 +1,3 @@
-# TbMeishi
 Selenium+Chrome+PhantomJS爬取淘宝美食
 
 注：
